@@ -1,0 +1,23 @@
+{
+	"modelInfo": [{
+		"name": "Oakeshott Type XVI Swords",
+		"origin": "Various",
+		"date": "13th to 14th Century",
+		"description": "Ewart Oakeshott is a historian and illustrater which has defined a method to catalogue medieval swords based on physical form named the Oakeshott typology. Of these swords, the Type XVI swords have a flat cutting blade which tapers to an acute point reinforced by a clearly defined ridge, making it equally effective for thrusting. This type somewhat resembles a more slender version of type XIV. Blade length c. 70–80cm. Subtype XVIa have a longer blade with a shorter fuller (usually running down 1/3 and rarely exceeding 1/2 of the blade). The grip is often extended to accommodate one and a half or two hands."
+	},{
+		"name":"Flanged Mace",
+		"origin": "Earliest references to the Byzantine Empire",
+		"date": "5th to 15th Century",
+		"description": "A mace is a simple weapon that uses a heavy head on the end of a handle to deliver powerful blows.During the Middle Ages metal armour such as mail protected against the blows of edged weapons, so variants of the standard mace were created to penetrate said armour. One example of a mace capable of penetrating armour is the flanged mace. The flanges allow it to dent or penetrate thick armour. Flange maces did not become popular until after knobbed maces. Although there are some references to flanged maces (bardoukion) as early as the Byzantine Empire c. 900, it is commonly accepted that the flanged mace did not become popular in Europe until the 12th century, when it was concurrently developed in Russia and Mid-west Asia. "
+	},{
+		"name":"Sparth",
+		"origin": "Western Scotland and Ireland",
+		"date": "13th Centurey",
+		"description": "The Sparth, also known as Sparr in Ireland, was a variant of the Danish axe. The featured a larger head with broader blade, the rearward part of the crescent sweeping up to contact (or even be attached to) the haft. Another development extended the forward part of the crescent."
+	},{
+		"name":"Buckler",
+		"origin": "Europe",
+		"date": "Middle Ages to Renaissance",
+		"description": "A buckler, derived from the old french word boucle for 'boss', is a small shield usually up to 45cm in diamete which is gripped in the fist with a central handle behind the boss. While originating in Europe since antiquity, it became popular to use as a companion weapon in hand-to-hand combat during the medieval and Renaissance periods.The buckler had a variety of roles when it came to swordplay, but five principal means come to the fore as described in MS I.33. Each use recognizes the shield's small size and maneuverability when dealing with light blades. The uses were as hand protection, a deflector, a blinder, a 'metal fist' and a binder."
+	}]
+}
